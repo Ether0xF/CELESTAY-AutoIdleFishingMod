@@ -1,0 +1,6 @@
+.DS_Store
+BepInEx/
+work/
+outputs/
+**/bin/
+**/obj/
